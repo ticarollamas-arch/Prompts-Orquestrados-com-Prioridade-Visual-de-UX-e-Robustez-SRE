@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "logoText": "Bancada Prompt",
+    "primaryColor": "#701A28",
+    "buttonColor": "#851d1d",
+    "googleAdsense": "<script async src='https://pagead2.googlesyndication.com/...'> </script>",
+    "facebookPixel": "<!-- Código do Pixel do Facebook -->",
+    "robotsTxt": "# robots.txt Simplificado - Tudo na Principal\nUser-agent: *\nAllow: /\nDisallow: /admin\nDisallow: /api",
+    "price": "R$ 49",
+    "checkoutUrl": "https://pay.kfy.com.br/",
+    "salesTitle": "Aprenda a fatiar os melhores prompts de IA com a Bancada Prompt DeepMind",
+    "salesSubtitle": "Aprenda a conversar perfeitamente com os LLMs de cibersegurança. Transforme ideias simples em instruções de alta fidelidade estruturadas de nível sênior, com blindagem ética e sandbox cognitivo.",
+    "copyrightFooter": "Bancada Prompt • Todos os direitos reservados.",
+    "guaranteeTitle": "Garantia Incondicional de 7 Dias",
+    "guaranteeSubtitle": "Reembolso Completo Assegurado pela Kiwify",
+    "billingModel": "Assinatura mensal recorrente (cancele quando quiser)"
+  },
+  "adminCredentials": {
+    "username": "admin",
+    "passwordText": "admin"
+  },
+  "users": [
+    {
+      "id": "demo-user-1",
+      "email": "cliente@deepmind.com",
+      "passwordText": "cliente123",
+      "createdAt": "2026-05-24T00:00:00.000Z"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "sub-demo-1",
+      "userId": "demo-user-1",
+      "userEmail": "cliente@deepmind.com",
+      "status": "active",
+      "gatewayId": "gate-123",
+      "planType": "Pro",
+      "expiresAt": "2030-12-31T23:59:59.000Z",
+      "amount": 49
+    }
+  ],
+  "orchestratedPrompts": []
+}

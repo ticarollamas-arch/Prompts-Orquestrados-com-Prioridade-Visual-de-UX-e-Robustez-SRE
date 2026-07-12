@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Enterprise Prompt Architect",
+  "description": "Transforms basic requests into advanced, technical, and ethical enterprise-grade prompts for professional engineering and security workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
